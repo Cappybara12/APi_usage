@@ -1,3 +1,45 @@
+# TV Shows App
+
+A React web application for displaying information about TV shows using the TVmaze API.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+The TV Shows App is a web application built with React that allows users to browse and explore information about various TV shows. It fetches data from the TVmaze API, providing details such as show titles, episode lists, cast members, and more.
+
+## Features
+
+- Browse a list of TV shows
+- View detailed information about each show, including episodes, cast, and crew
+- Search for specific shows
+- Responsive design for mobile and desktop devices
+
+## Technologies
+
+- React
+- React Router DOM
+- Axios (for making HTTP requests)
+- CSS (for styling)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Cappybara12/tv-shows-app.git
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
